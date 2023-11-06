@@ -18,4 +18,4 @@ export default interface UserProps extends MetadataProps.default {
     donatorBadge: string;
     roles: RoleProps.default;
     previousNames: PreviousNamesProps[]
-}
+};
